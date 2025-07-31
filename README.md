@@ -7,5 +7,8 @@
 - Install Yarn: `npm install -g yarn`
 - Start the development server: `yarn serve`
 
+## Usage
+- Access the application through your browser at http://localhost:8080/
+
 ## Tools
 - [Weather API](https://home.openweathermap.org/api_keys)
